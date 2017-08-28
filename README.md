@@ -13,9 +13,9 @@
 ## Course's Objectives
 * Overview of Machine Learning landscape: motivation, principals, and major players
 * Elastic.co X-Pack machine learning
-* AWS Machine Learning overview
-* Azure Machine Learning overview
-* Google Cloud Machine Learning overview
+* AWS Machine Learning
+* Azure Machine Learning
+* Google Cloud Machine Learning
 
 ## Prerequisites
 
